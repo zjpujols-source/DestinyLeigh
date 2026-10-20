@@ -1,0 +1,8 @@
+{
+  "name": "Destiny Leigh | Official Site",
+  "description": "Official artist website for Destiny Leigh featuring music releases, music videos, store, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
