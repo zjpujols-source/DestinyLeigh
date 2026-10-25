@@ -5,9 +5,6 @@ export const defaultArtistConfig: ArtistConfig = {
   // ARTIST INFORMATION
   // ============================================================
   artistName: "Destiny Leigh",
-  tagline: "Official Artist Website",
-  genre: "R&B / Soul / Pop",
-  bio: "Destiny Leigh is an independent singer and songwriter bringing sultry vocals, heartfelt lyricism, and captivating soulful melodies.",
 
   // ============================================================
   // HERO ASSETS
@@ -16,11 +13,6 @@ export const defaultArtistConfig: ArtistConfig = {
   heroImage: "/hero-poster.jpg",
   profileImage: "/profile.jpg",
 
-  // ============================================================
-  // DESIGN
-  // ============================================================
-  accentColor: "#ffffff",
-  theme: "dark",
 
   // ============================================================
   // SOCIALS
